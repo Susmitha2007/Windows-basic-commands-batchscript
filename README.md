@@ -1,4 +1,4 @@
-<img width="761" height="112" alt="Screenshot 2025-10-31 105350" src="https://github.com/user-attachments/assets/0da2e27d-f33f-4590-8cde-fc9ff3bc546f" /># Windows-basic-commands-batchscript
+# Windows-basic-commands-batchscript
 Ex08-Windows-basic-commands-batchscript
 
 Name:Nara Guna Susmitha
